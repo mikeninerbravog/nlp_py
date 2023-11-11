@@ -3,7 +3,7 @@ Perform Natural Language Processing Tasks with Python
 
 ![img.png](img.png)
 
-Recipie:
+Recipe:
 
     pip install --upgrade pip
     pip install nltk
