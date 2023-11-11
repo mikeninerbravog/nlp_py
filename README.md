@@ -33,3 +33,5 @@ Recipe:
     tokens = nltk.word_tokenize(sentence)
     
     print(tokens)
+
+Clone the repo and test the Python scripts
